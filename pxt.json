@@ -1,7 +1,10 @@
 {
     "name": "Israel Adeboga's CompSci Madpid Project",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "corgio": "*",
+        "animation": "*",
+        "Israel Adeboga's CompSci Madpid Project": "github:i-s-r-a-e-l/israel-adebogas-compsci-madpid-project#master"
     },
     "description": "",
     "files": [
